@@ -3,7 +3,7 @@ This is a Linear Regression model which predicts how much a user spends every ye
 ## Objective of the project:
 Given a dataset of an imaginary Company which is trying to decide whether to focus their efforts on their mobile app experience or their website. We have to help them make a data-driven decision.
 ## What is the Data in the Project?
-In this project we work with a dataset [available on kaggle]<https://www.kaggle.com/datasets/iyadavvaibhav/ecommerce-customer-device-usage>.
+In this project we work with a dataset [available on kaggle](https://www.kaggle.com/datasets/iyadavvaibhav/ecommerce-customer-device-usage).
 The data includes information about customers of an e-commerce website, including the following:
 
 Avg. Session Length: Average session of in-store style advice sessions.
