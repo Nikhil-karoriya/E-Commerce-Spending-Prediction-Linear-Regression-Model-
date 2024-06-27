@@ -2,7 +2,7 @@
 This is a Linear Regression model which predicts how much a user spends every year in an e-commerce website on the basis of user's characteristics.
 
 ## About the Model :
-For this Project I have used Linear Regression Model, Implemented by Myself, to make predictions about data and analysed the predictions with actual values of data.
+For this Project I have used Linear Regression Model, Implemented by Myself using Numpy, Pandas & Matplotlib, to make predictions about data and analysed the predictions with actual values of data.
 
 ## Objective of the project:
 Given a dataset of an imaginary Company which is trying to decide whether to focus their efforts on their mobile app experience or their website. We have to help them make a data-driven decision.
